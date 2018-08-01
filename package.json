@@ -1,14 +1,14 @@
 {
   "name": "vue-demo",
   "version": "1.0.0",
-  "description": "",
+  "description": "vue.js样例程序",
   "main": "index.js",
   "scripts": {
     "dev": "node server",
     "dev:dist": "cross-env NODE_ENV=production gulp devDist",
     "dev:test": "gulp devTest"
   },
-  "author": "",
+  "author": "1034524903@qq.com",
   "license": "ISC",
   "devDependencies": {
     "autoprefixer-loader": "^3.2.0",
